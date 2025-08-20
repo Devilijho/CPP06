@@ -1,10 +1,4 @@
 #include "ScalarConverter.hpp"
-#include <cctype>
-#include <climits>
-#include <cstdlib>
-#include <iostream>
-#include <cmath>
-#include <string>
 
 ScalarConverter::ScalarConverter(){}
 

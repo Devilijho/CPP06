@@ -4,6 +4,9 @@
 #include <iostream>
 #include <stdlib.h>
 #include <cstdlib>
+#include <cctype>
+#include <climits>
+#include <cmath>
 
 #define UNUSED(expr) do { (void)(expr); } while (0)
 
